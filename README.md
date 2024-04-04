@@ -6,7 +6,7 @@ This script prefroms analysis for Pymaceuticals Inc. The analysis examines effec
 
 ## Observations
 
-- After performing an analysis and graphing on the outputs there are three observations that could be made:
+After performing an analysis and graphing on the outputs there are three observations that could be made:
     
     1) Treatment Efficency: The bar graph "Mouse Timepoints Across Drug Regimens" suggests that Capomulin and Ramicane may have better efficency. This conclusion is based on the fact that mice treated with those drugs have more timeponts, or in other words may live longer.
     
@@ -35,7 +35,18 @@ Before running the script please ensure that all libraries mentioned in "Dependa
 
 ## Visualizations
 
-The sript creates various 
+The sript creates various cahrts to help user understand the data, as well as relationships between some varibles. These charts include:
+
+    1) Bar chart with the number of mice's timepoints for drug regimens.
+    2) Pie charts showing distribution of mice's genders.
+    3) Box plots that show the distrubution of the tumor volume for each treatment group.
+    4) Line chart of tumor volume vs. time point for a single mouse (l509) treated with Capomulin.
+    5) Scatter plot with correlation line of mouse weight vs. the average observed tumor volume for the entire Capomulin regimen.
+
+## Conclusion 
+
+This analysis provides valuable insights on effectivness of different drug regimens for treating / decreasing tumor volume in mice. The script visualizes finding in form of different graphs appropriate for specific stages of the analysis process. Visualisations makes the analysis accessable for users with different levels of understanding of original data.
+    
 
 
 
