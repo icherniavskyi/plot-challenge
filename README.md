@@ -6,7 +6,7 @@ This script prefroms analysis for Pymaceuticals Inc. The analysis examines effec
 
 ## Observations
 
-After performing an analysis and graphing on the outputs there are three observations that could be made:
+ - After performing an analysis and graphing on the outputs there are three observations that could be made:
     
     1) Treatment Efficency: The bar graph "Mouse Timepoints Across Drug Regimens" suggests that Capomulin and Ramicane may have better efficency. This conclusion is based on the fact that mice treated with those drugs have more timeponts, or in other words may live longer.
     
